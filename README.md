@@ -8,6 +8,7 @@ This AWS Lambda function automates the process of downloading a PDF from a provi
 - Notion account with integration created for API access.
 - An S3 bucket for storing PDF files.
 - The target Notion page ID where the PDF link will be added.
+- Download this install node packages with npm i , zip it and paste the link in lambda function pulumi
 
 ### Function Flow
 
